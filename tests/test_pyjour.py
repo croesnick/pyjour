@@ -6,3 +6,7 @@
 # from click.testing import CliRunner
 #
 # from pyjour import cli
+
+
+def test_tautology():
+    assert True
