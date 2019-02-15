@@ -20,7 +20,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: croesnickn
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: Z6zWLyv+xMl/V4t/nB74Jwnyvzy09StK/D/pQxCitGrvSWmSnZOAsxd7Lst9CK2l7DMxP3HC1m5AOM0RKCu0dOjflPF3vz2Q7M4lbaZvEDW7Wr/knMj7hvX00jC+0DEoXpIfdt5Ctn8/HzqjYQv1/0OKn+DLDBX/TB1+nsHJ+LOevY2vCKqkXl67OS/G2NCbY+acWGlqRbsF3Tt8VNJj/pGNLa9KIZpfTUevWWDYGi0XeR/SibPXAyKezBPKfhFISzkAPmYC+6e1hMrm6U2M4bdQf1VRrpbrZUg6ml/QpygO0jDPR/2S8vo9gEyLMNU8SqkFz7Ry4vcqspHccmO7nx+cgtEWIgGcbEfhOHCYeL2UCPRB237ayiyPEPibsNBhlejVt+/jVMjhAa18Uc9niNJkd7yYYviFbdLm9qp7IYfzj+B4OaxB3SguP6g5yz4TNYfUGL6Hz8rouZ/tdWNwo/dvMZ8pNsnCbPYKeVWI9IdWVz2qVAHLTRMZOyAzAP/HXtRrfCZOKodIwyE6Tdrv/+uOLyGNbbOhz71k+d5J6u3syDbOZE3ayUEbTQi/Xe9gDmf/9x4N0uwid8re8N+YQ5gTglLhgurEhSrd7KOnMZTycYqRDWqH6t5P16TRtrHGJ3NVxBmf4QxZpQNkReXryl3EjZB63d7J9MCyD3bZItQ=
   on:
     tags: true
     repo: croesnick/pyjour
